@@ -1,0 +1,4 @@
+l=[1, 2,3,4,5]
+l. reverse() 
+Print("reverse:", l)
+Output: enter a reverse number-5, 4,3,2,1
